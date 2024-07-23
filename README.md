@@ -1,4 +1,4 @@
-### Multithreaded Video Analysis Application with Streamlit and Twilio Integration
+### Multithreaded Video Analysis Application Using Deep Learning  with Streamlit and Twilio Integration
 
 This application allows for multithreaded video analysis using YOLO models to detect accidents, wild animals, and floods. It also sends alerts via Twilio when specific detections occur. The application has two main pages: Analysis and Video Player.
 
